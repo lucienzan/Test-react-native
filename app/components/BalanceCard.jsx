@@ -1,4 +1,4 @@
-import { StyleSheet, View } from "react-native";
+import {Text, StyleSheet, View } from "react-native";
 export default function BalanceCard() {
   return (
     <View style={style.banner}>
